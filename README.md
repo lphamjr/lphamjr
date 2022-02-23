@@ -1,5 +1,8 @@
-### Hi there 👋
-
+Ninja for Hire.
+- 🔭 I’m currently working on building out more services on my homelab.
+- 🌱 I’m currently learning Teraform, Golang, Ansible, Life.
+- 🎈 I am interested in technology, automation, teaching, learning, and other random stuff. I like to tinker.
+- 🏓 My current side projects include XCarve CNC and Ender 3 Pro. 
 <!--
 **lphamjr/lphamjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
