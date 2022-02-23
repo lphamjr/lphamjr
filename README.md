@@ -1,19 +1,14 @@
-Ninja for Hire.
+## Ninja for Hire.
 - 🔭 I’m currently working on building out more services on my homelab.
 - 🌱 I’m currently learning Teraform, Golang, Ansible, Life.
 - 🎈 I am interested in technology, automation, teaching, learning, and other random stuff. I like to tinker.
 - 🏓 My current side projects include XCarve CNC and Ender 3 Pro. 
-<!--
-**lphamjr/lphamjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Actual text -->
+You can find me on [LinkedIn][1] [![LinkedIn][1.1]][1].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Icons -->
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/lan-pham-79299159/
